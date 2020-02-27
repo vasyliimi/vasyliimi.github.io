@@ -1,0 +1,26 @@
+<svg width="200" height="200" version="1.1" viewBox="0 0 52.91666 52.91667" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-16.94921 -180.5238)">
+    <g transform="translate(16.94921 -63.55955)">
+      <rect y="244.0833" width="52.91666" height="52.91666" fill="#b0b7ff" style="paint-order:fill markers stroke"/>
+      <g transform="translate(-10.58334 42.33332)">
+        <rect x="10.58334" y="201.75" width="52.91666" height="5.291666" fill="#474bc9" style="paint-order:fill markers stroke"/>
+        <g transform="translate(37.24519 -14.55209)" fill="#fcfef7">
+          <circle cx="11.90625" cy="218.9479" r="1.322917" style="paint-order:fill markers stroke"/>
+          <circle cx="17.09616" cy="218.9479" r="1.322917" style="paint-order:fill markers stroke"/>
+          <circle cx="22.28606" cy="218.9479" r="1.322917" style="paint-order:fill markers stroke"/>
+        </g>
+      </g>
+      <rect x="5.291666" y="254.6667" width="42.33333" height="13.22917" rx=".79375" ry=".79375" fill="#4191ff" style="paint-order:fill markers stroke"/>
+      <g fill="#282f39">
+        <rect x="5.291666" y="270.5417" width="42.33333" height="2.645833" rx=".79375" ry=".79375" style="paint-order:fill markers stroke"/>
+        <rect x="5.291666" y="275.8333" width="42.33333" height="2.645833" rx=".79375" ry=".79375" style="paint-order:fill markers stroke"/>
+        <rect x="5.291666" y="281.125" width="42.33333" height="2.645833" rx=".79375" ry=".79375" style="paint-order:fill markers stroke"/>
+      </g>
+      <rect x="5.291666" y="286.4167" width="5.291666" height="5.291666" rx=".79375" ry=".79375" fill="#ff5e87" style="paint-order:fill markers stroke"/>
+      <rect x="14.55208" y="286.4167" width="5.291666" height="5.291666" rx=".79375" ry=".79375" fill="#fcfef7" style="paint-order:fill markers stroke"/>
+      <rect x="23.8125" y="286.4167" width="5.291666" height="5.291666" rx=".79375" ry=".79375" fill="#4191ff" style="paint-order:fill markers stroke"/>
+      <rect x="33.07291" y="286.4167" width="5.291666" height="5.291666" rx=".79375" ry=".79375" fill="#fcfef7" style="paint-order:fill markers stroke"/>
+      <rect x="42.33333" y="286.4167" width="5.291666" height="5.291666" rx=".79375" ry=".79375" fill="#474bc9" style="paint-order:fill markers stroke"/>
+    </g>
+  </g>
+</svg>
